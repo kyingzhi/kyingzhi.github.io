@@ -29,18 +29,19 @@
   </ul>
 </body>
 <body>
-  <h1>表格<h1>
+  <p>看完图片，是不是有一种想来到pku的冲动呢？但pku可不是说来就来的，不过别着急，下表罗列了来到我们pku的方法：<p>
   <table>
     <tr>
-      <td>（第一行第一列）</td>
-      <td>（第一行第二列）</td>
-      <td>（第一行第三列）</td>
-      <td>（第一行第四列）</td>
+      <td>努力学习</td>
+      <td>study hard</td>
+      <td>Streng studieren</td>
+      <td>勉強に励む</td>
     </tr>
     <tr>
-      <td>（第二行第一列）</td>
-      <td>（第二行第二列）</td>
-      <td>（第二行第三列）</td>
-      <td>（第二行第四列）</td>
+      <td>усердно учиться  </td>
+      <td>Travailler dur</td>
+      <td>열심히 공부 하 다</td>
+      <td>Estudar Muito</td>
     <tr>
   </table>
+  <p>怎么样？看完这些方法感觉进pku还是很轻松的吧，不用谢我~</p>
