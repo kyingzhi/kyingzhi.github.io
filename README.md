@@ -17,8 +17,8 @@
     <p>这是我们北大的学生：</p>
     <img src="微信截图_20201003165904.png" width="300" height="300" />
     <p>又放错图了......这才是：</p>
-    <img src="微信截图_20201008194019.png" width="300" height="300" />
-    <img src="微信截图_20201008194443.png" width="300" height="300" />
+    <img src="微信截图_20201008194019.png" width="400" height="300" />
+    <img src="微信截图_20201008194443.png" width="400" height="300" />
   </div>
     <p>欢迎来到<a href="https://www.pku.edu.cn/">PKU</a><p>
     <p>下面是PKU的一些好朋友：<p>
