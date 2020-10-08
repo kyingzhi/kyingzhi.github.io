@@ -7,9 +7,12 @@
   </head>
 <body>
   <div>  
-    <h1>第一段落</h1>
-    <p>很久很久以前</p>
+    <h1>welcome to my website</h1>
+    <p>你们好，今天我来介绍一下北京大学</p>
+    <p>这是我们北大的学生：</p>
     <img src="微信截图_20201003165904.png" width="500" height="500" />
+    <p>放错图了......这才是：</p>
+    <img src
   </div>
     <p>欢迎来到<a href="https://www.pku.edu.cn/">PKU</a><p>
     <p>下面是PKU的一些好朋友：<p>
