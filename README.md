@@ -4,7 +4,7 @@
   <head>
     <meta charset="utf-8"/>
     <title>my first website</title>
-    <link href="" rel="stylesheet" type="text/css"/>
+    <link href="test.css" rel="stylesheet" type="text/css"/>
   </head>
 <body>
   <div>  
@@ -44,7 +44,5 @@
     </tr>
   </table>
   <p>怎么样？看完这些方法感觉进pku还是很轻松的吧，不用谢我~</p>
-  <p>什么？你还想了解我？</P>
-  <p>我叫柯英智，来自广东惠州，是20级药学一班的一位学生，平时喜欢唱，跳，rap，篮球，还喜欢无聊的时候撸撸铁。<p>
-  <p>如果想要一起撸铁，一起健身的，或是仅仅想多交个带点南方气息的朋友的，都欢迎来加我的微信
+  
 
