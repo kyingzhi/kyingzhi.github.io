@@ -1,9 +1,7 @@
-# kyingzhi.github.io
 <!DOCTYPE html>
 <html lang="zh-cn">
   <head>
     <meta charset="utf-8"/>
-    <title>my first website</title>
     <link href="test.css" rel="stylesheet" type="text/css"/>
   </head>
 <body>
