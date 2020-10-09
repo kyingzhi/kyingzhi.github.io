@@ -18,14 +18,14 @@
     <img src="微信截图_20201008194019.png" width="400" height="300" />
     <img src="微信截图_20201008194443.png" width="400" height="300" />
   </div>
-    <p>欢迎来到<a href="https://www.pku.edu.cn/">PKU</a><p>
-    <p>下面是PKU的一些好朋友：<p>
+    <p id="para1">欢迎来到<a href="https://www.pku.edu.cn/">PKU</a><p>
+    <p id="para2">下面是PKU的一些好朋友：<p>
   <ul>
     <li><a href="https://www.tsinghua.edu.cn/">清华大学</a></li>
     <li><a href="https://www.buaa.edu.cn/">北京航空航天大学</a></li>
     <li><a href="http://www.bit.edu.cn/">北京理工大学</a></li>
   </ul>
-  <p>看完图片，是不是有一种想来到pku的冲动呢？但pku可不是说来就来的，不过别着急，下表罗列了来到我们pku的方法：<p>
+  <p >看完图片，是不是有一种想来到pku的冲动呢？但pku可不是说来就来的，不过别着急，下表罗列了来到我们pku的方法：<p>
   <table>
     <tr>
       <td>努力学习</td>
@@ -40,6 +40,6 @@
       <td>Estudar Muito</td>
     </tr>
   </table>
-  <p>怎么样？看完这些方法感觉进pku还是很轻松的吧，不用谢我~</p>
+  <p>怎么样？看完这些方法感觉进pku还是很轻松的吧，不用谢我。</p>
   
 
