@@ -41,8 +41,9 @@
     </tr>
   </table>
   <p>怎么样？看完这些方法感觉进pku还是很轻松的吧，不用谢我。</p>
-  </body>
-</html>
-  
+  <p>As for me:
+     name:（kyingzhi）柯英智                  from:广东惠州
+     profession:药学
+     Glad to meet you.<p>
   
 
