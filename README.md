@@ -41,9 +41,9 @@
     </tr>
   </table>
   <p>怎么样？看完这些方法感觉进pku还是很轻松的吧，不用谢我。</p>
-  <p>As for me:
-     name:（kyingzhi）柯英智                  from:广东惠州
-     profession:药学
-     Glad to meet you.<p>
+  <p>As for me:<p>
+  <p>name:（kyingzhi）柯英智<p>               <p>from:广东惠州<p>
+  <p>profession:药学<p>
+  <p>Glad to meet you.<p>
   
 
